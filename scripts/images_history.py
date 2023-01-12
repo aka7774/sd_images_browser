@@ -341,7 +341,7 @@ def on_ui_tabs():
                         create_tab(tab)
         gr.Checkbox(opts.images_history_preload, elem_id="images_history_preload", visible=False)         
         gr.Textbox(",".join(tabs_list), elem_id="images_history_tabnames_list", visible=False) 
-    return (images_history , "Image Browser", "images_history"),
+    return (images_history , "Images", "images_history"),
 
 def on_ui_settings():
     section = ('images-history', "Images Browser")
