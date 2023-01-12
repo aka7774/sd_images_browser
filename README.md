@@ -1,4 +1,8 @@
-# stable-diffusion-webui-images-browser
+# sd_images_browser
+
+- Changed the extension name to sd_images_browser.
+- Changed the tab name to Images.
+- Merged PR #51 #63 #67 #73
 
 This an extension for [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
@@ -7,8 +11,8 @@ This an images browser for browsing past generated pictures, view their generate
 
 go to the directory \<stable-diffusion-webui project path\>/extensions and run command to install:
 
-`git clone https://github.com/yfszzx/stable-diffusion-webui-images-browser `
+`git clone https://github.com/aka7774/sd_images_browser`
 
-and restart your stable-diffusion-webui, then you can see the new tab "Images Browser"
+and restart your stable-diffusion-webui, then you can see the new tab "Images"
 
 [See here for more install details](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Extensions)
